@@ -1,0 +1,35 @@
+
+ /* Styling for the header section */
+ header {
+ background-color: #DDA0DD;
+ color: ##C0C0C0;
+ padding: 20px;
+ }
+ h2 {
+   text-align: center;
+   border-bottom: 1px solid #000;
+ }
+ main {
+ padding: 20px;
+ }
+ }
+ main ul {
+ margin-top: 0;
+ margin-bottom: 20px;
+ }
+ main li {
+ margin-bottom: 5px;
+ }
+
+ div {
+     float: left;
+     position: relative;
+     width: auto;
+     padding-bottom: auto;
+     margin: 1.66%;
+ }
+
+
+.text {
+  font-family: montserrat
+}

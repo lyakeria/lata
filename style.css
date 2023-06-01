@@ -1,0 +1,32 @@
+.slider {
+  margin-bottom: 100px;
+}
+
+.link-more {
+  font-family: Montserrat;
+  font-size: 14px;
+  color: #b4ad9e;
+  font-weight: 300;
+}
+
+.post-title a{
+  color: #626262;
+}
+
+.grid-posts {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.grid-post .card {
+  margin-bottom: 100px;
+  border: 0;
+}
+
+.grid-posts .card-body{
+  padding-left: 0;
+  padding-right: 0;
+}
+.text {
+  font-family: Montserrat;
+}
